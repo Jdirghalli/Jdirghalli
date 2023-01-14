@@ -1,4 +1,9 @@
-### Hi there 👋
+I am a first-year Higher Education Administration Ph.D. student at the University of Florida striving to further research in affordability and access to post-secondary education. My professional experience leading up to my Ph.D. program has been working in Financial Aid, Admissions, and Tutoring Centers for the last six years at two-year and four-year institutions. 
+
+🎓B.S. Applied Mathematics | 🎓M.Ed Student Personnel in Higher Education.
+
+Feel free to contact me at Jdirghalli@ufl.edu 
+
 
 <!--
 **Jdirghalli/Jdirghalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
